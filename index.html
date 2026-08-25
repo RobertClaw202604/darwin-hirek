@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DarwinAI – Hírarchívum (The Neuron + The Rundown)</title>
+<style>
+  :root {
+    --bg: #0d1117;
+    --card: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --muted: #8b949e;
+    --accent: #58a6ff;
+    --orange: #ff7a18;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.5;
+  }
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 20px 24px;
+    background: linear-gradient(180deg, #12161d, var(--bg));
+  }
+  header h1 {
+    margin: 0;
+    font-size: 20px;
+    letter-spacing: -0.02em;
+  }
+  header h1 .accent { color: var(--orange); }
+  header p {
+    margin: 6px 0 0;
+    color: var(--muted);
+    font-size: 13px;
+  }
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    padding: 14px 24px;
+    border-bottom: 1px solid var(--border);
+    position: sticky;
+    top: 0;
+    background: rgba(13,17,23,.92);
+    backdrop-filter: blur(6px);
+    z-index: 5;
+  }
+  .toolbar input {
+    flex: 1;
+    min-width: 200px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--text);
+    padding: 8px 12px;
+    font-size: 14px;
+  }
+  .toolbar input:focus { outline: none; border-color: var(--accent); }
+  .chips { display: flex; gap: 6px; flex-wrap: wrap; }
+  .chip {
+    border: 1px solid var(--border);
+    background: var(--card);
+    color: var(--muted);
+    border-radius: 999px;
+    padding: 4px 12px;
+    font-size: 12px;
+    cursor: pointer;
+    user-select: none;
+  }
+  .chip.active {
+    border-color: var(--orange);
+    color: var(--orange);
+    background: rgba(255,122,24,.1);
+  }
+  .count {
+    color: var(--muted);
+    font-size: 12px;
+    white-space: nowrap;
+  }
+  main { padding: 16px 24px 60px; max-width: 900px; margin: 0 auto; }
+  ul { list-style: none; margin: 0; padding: 0; }
+  li {
+    display: flex;
+    gap: 14px;
+    align-items: baseline;
+    padding: 12px 4px;
+    border-bottom: 1px solid var(--border);
+  }
+  .day {
+    min-width: 68px;
+    color: var(--muted);
+    font-size: 12px;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+  .badge {
+    flex: 0 0 auto;
+    font-size: 10px;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 5px;
+    letter-spacing: .03em;
+  }
+  .badge.neuron { background: #2d1b00; color: var(--orange); }
+  .badge.rundown { background: #12263a; color: var(--accent); }
+  a {
+    color: var(--text);
+    text-decoration: none;
+  }
+  a:hover { color: var(--accent); text-decoration: underline; }
+  .empty { color: var(--muted); text-align: center; padding: 60px 0; }
+  footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: 12px;
+    padding: 20px;
+    border-top: 1px solid var(--border);
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>DarwinAI <span class="accent">Hírarchívum</span></h1>
+  <p>The Neuron + The Rundown emailben érkezett hírek — <strong>szelekció nélkül</strong>, cím listában, megjelenési dátummal és külső forráslinkkel.</p>
+</header>
+
+<div class="toolbar">
+  <input id="search" type="search" placeholder="Keresés címben…" autocomplete="off">
+  <div class="chips">
+    <span class="chip active" data-f="all">Mind</span>
+    <span class="chip" data-f="The Neuron">The Neuron</span>
+    <span class="chip" data-f="The Rundown">The Rundown</span>
+  </div>
+  <span class="count" id="count"></span>
+</div>
+
+<main>
+  <ul id="list"></ul>
+  <div class="empty" id="empty" hidden>Nincs találat.</div>
+</main>
+
+<footer id="foot"></footer>
+
+<script>
+const dayFmt = new Intl.DateTimeFormat("hu-HU", { day: "2-digit", month: "short", year: "numeric" });
+const norm = (s) => (s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+
+let items = [];
+let filter = "all";
+let query = "";
+
+const listEl = document.getElementById("list");
+const countEl = document.getElementById("count");
+const emptyEl = document.getElementById("empty");
+const footEl = document.getElementById("foot");
+
+function fmtDay(dateStr) {
+  if (!dateStr) return "";
+  const d = new Date(dateStr + (dateStr.length === 10 ? "T00:00:00Z" : ""));
+  if (isNaN(d)) return dateStr;
+  return dayFmt.format(d);
+}
+
+function render() {
+  const q = norm(query);
+  const shown = items.filter((it) => {
+    if (filter !== "all" && it.source !== filter) return false;
+    if (q && !norm(it.title).includes(q)) return false;
+    return true;
+  });
+  countEl.textContent = `${shown.length} / ${items.length} hír`;
+  emptyEl.hidden = shown.length !== 0;
+
+  listEl.innerHTML = shown.map((it) => {
+    const badge = (it.source || "").toLowerCase().includes("rundown") ? "rundown" : "neuron";
+    const label = it.url ? `<a href="${it.url}" target="_blank" rel="noopener">${escapeHtml(it.title)}</a>` : escapeHtml(it.title);
+    return `<li>
+      <span class="day">${fmtDay(it.date)}</span>
+      <span class="badge ${badge}">${it.source || "?"}</span>
+      <span class="title">${label}</span>
+    </li>`;
+  }).join("");
+}
+
+function escapeHtml(s) {
+  return (s || "").replace(/[&<>"']/g, (c) => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+}
+
+document.getElementById("search").addEventListener("input", (e) => { query = e.target.value; render(); });
+document.querySelectorAll(".chip").forEach((chip) => {
+  chip.addEventListener("click", () => {
+    document.querySelectorAll(".chip").forEach((c) => c.classList.remove("active"));
+    chip.classList.add("active");
+    filter = chip.dataset.f;
+    render();
+  });
+});
+
+fetch("hirek.json")
+  .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then((d) => { items = d.items || []; footEl.textContent = `Utolsó frissítés: ${new Date(d.generatedAt || Date.now()).toLocaleString("hu-HU")} · ${items.length} hír az archívumban`; render(); })
+  .catch(() => {
+    listEl.innerHTML = "";
+    emptyEl.hidden = false;
+    emptyEl.textContent = "A hirek.json nem elérhető. Futtasd: node collect-archive.mjs";
+  });
+</script>
+</body>
+</html>
