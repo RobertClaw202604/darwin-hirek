@@ -1,7 +1,151 @@
 {
-  "generatedAt": "2026-08-25T10:29:09.702Z",
-  "count": 128,
+  "generatedAt": "2026-08-26T06:30:21.957Z",
+  "count": 146,
   "items": [
+    {
+      "source": "The Neuron",
+      "title": "Anthropic's",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "excerpt": "flagship model Fable 5 pulled in just 11% of corporate AI spending two months after launch, as businesses defaulted to cheaper tools like OpenAI's GPT-5.6, per data from 70,000 companies.",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "ICE",
+      "url": "https://www.yahoo.com/news/us/articles/ice-banned-meta-glasses-now-154840012.html",
+      "excerpt": "banned staff from wearing Meta's Ray-Ban smart glasses on the job, after agents were repeatedly spotted wearing them during immigration raids.",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Chinese state-backed hackers",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-hackers-use-deepseek-to-boost-attacks-researchers-say-mt7o4205?utm_source=www.theneurondaily.com&utm_medium=newsletter&utm_campaign=nvidia-built-a-cpu-musk-shot-it-into-space",
+      "excerpt": "more than doubled their attack volume after folding DeepSeek into malware development and reconnaissance, researchers said.",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Mistral",
+      "url": "https://mistral.ai/news/mistral-x-humain/",
+      "excerpt": "struck a hundreds-of-millions-euro deal with Saudi Arabia's HUMAIN to build sovereign AI models for the Middle East.",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "OpenAI",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro/",
+      "excerpt": "brought its GPT-5.6 models to AWS's Kiro coding tool, cutting task costs by roughly 82% in testing.",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Atlaso",
+      "url": "https://www.atlaso.ai/",
+      "excerpt": "gives Claude Code, Cursor, and Codex one shared memory, so what you tell one tool, the others already know—free to try, then $10/month for Pro.",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Viktor",
+      "url": "https://viktor.com/",
+      "excerpt": "lives in Slack and Teams and finishes tasks itself, like auditing your ad spend and handing you the finished PDF instead of just a plan—free trial ($100 in credits), then $50/month.",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "AgentSky",
+      "url": "https://agentsky.dev/",
+      "excerpt": "gives you one API key to run Claude Code, Codex, and other coding agents in the cloud, billed only for what you use—free to try ($3 credit), then pay-per-use.",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Bolcho",
+      "url": "https://bolchoai.in/",
+      "excerpt": "builds voice and chat agents that speak real Hindi, Tamil, and other Indian languages for your phone lines and website—free to try, then billed near provider cost per call.",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "port22",
+      "url": "https://www.tryport22.com/",
+      "excerpt": "puts your Claude Code or Codex session on your phone, so you can read along and approve from the couch instead of your desk—free for one Mac, then $19.99/year for unlimited.",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "NudgeForMe",
+      "url": "https://nudgeforme.com/",
+      "excerpt": "scans your sent emails for proposals and pitches that never got a reply, then drafts the follow-up for you to send—free to try, then $39/month for Pro.",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "AI Skill of the Day: Make Claude Explain It With Big Pictures",
+      "url": "https://x.com/trq212/status/2090884854590382515",
+      "excerpt": "AI Skill of the Day: Make Claude Explain It With Big Pictures\r\n\r\n[Thariq](https://x.com/trq212/status/2090884854590382515) says people at Anthropic have been using an `/eli5` skill to understand a concept before diving into the details. It asks Claude to explain a topic as if you know nothing about it, using an HTML artifact with big pictures and very few words.\r\n\r\n**Try it on:**\r\n\r\n```\r\n/eli5 how",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "$200 billion market",
+      "url": "https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html",
+      "excerpt": "A CNBC elemzése szerint a processzorpiac 200 milliárd dollárosra nőhet, miközben az Nvidia új Vera CPU-ja az AMD és az Intel dominanciáját támadja az AI-szerverek piacán.",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Take the free assessment now.",
+      "url": "https://airia.com/resources/shadow-ai-risk-assessment-whats-running-in-your-organization-without-approval/?utm_source=the_neuron&utm_medium=newsletter&utm_campaign=08252026primary",
+      "excerpt": "Az Airia ingyenes felmérése segít feltárni, milyen nem jóváhagyott, „árnyék-AI” eszközök futnak a szervezetedben, hogy csökkentsd a kockázatokat.",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Fin and Plaid now on demand",
+      "url": "https://fin.registration.goldcast.io/webinar/2273391b-f56b-45f3-ae50-9ef69c485a8b?utm_source=beehiiv&utm_medium=syndication&utm_campaign=ai-fintech&utm_term=YJ4ZPRQDHV&utm_content=secondary&_bhiiv=opp_5bb38581-fd00-4cb7-8e1e-0fe377b45206_56b21364&bhcl_id=7cb5158b-6cd4-4544-8159-daf309c6eb18_f8ceac90-051d-4854-ae23-fc2f3d3ffc12_d466df2a-67f0-48c7-af44-fa1d7820565f",
+      "excerpt": "A Fin és a Plaid új, igény szerinti webináriumán az AI-alapú pénzügyi technológiák integrációjáról és gyakorlati alkalmazásáról lesz szó.",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Google Cloud",
+      "url": "https://cloudonair.withgoogle.com/events/startup-school-agent-builder-q3-2026?utm_source=gfs&utm_medium=email&utm_campaign=FY26-Q3-GLOBAL-GCP41776-onlineevent-er-Q3StartupSchool-229984&utm_content=neuron_aug",
+      "excerpt": "A Google Cloud startup iskolája ingyenes, gyakorlati workshopot kínál AI-ügynökök építéséhez, célzottan a fejlesztők és startupok számára.",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "A developer testing Qwen locally",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1vrqxqc/game_over_22gb_local_models_run_in_pi_now/",
+      "excerpt": "Egy fejlesztő beszámolója szerint a Qwen helyi futtatása 22 GB-os modellekkel mostantól Pi-n is működik, ami új lehetőségeket nyit a lokális AI használatban.",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "the model card",
+      "url": "https://huggingface.co/peculiar-ragdoll/Dirk-Qwen3.8-27B-GGUF",
+      "excerpt": "A Dirk-Qwen3.8-27B modellkártyája részletezi a 27 milliárd paraméteres, GGUF formátumú modell teljesítményét és erőforrás-igényét, ami helyi futtatásra optimalizált.",
+      "date": "2026-08-25",
+      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+    },
     {
       "source": "The Neuron",
       "title": "Nvidia",
