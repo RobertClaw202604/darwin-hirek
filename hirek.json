@@ -1,14 +1,302 @@
 {
-  "generatedAt": "2026-08-26T06:30:21.957Z",
-  "count": 146,
+  "generatedAt": "2026-08-27T06:30:53.580Z",
+  "count": 184,
   "items": [
+    {
+      "source": "The Neuron",
+      "title": "Perplexity",
+      "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+      "excerpt": "and NVIDIA launched Portable Computer, a fully local AI agent (software that completes tasks, not just chats) with zero token costs (the usual per-use AI fees).",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Apple",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "excerpt": "unveiled a new Mac mini with the M6 chip, delivering up to 4x faster on-device AI performance.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "OpenAI's data center chief",
+      "url": "https://www.investing.com/news/stock-market-news/openai-data-center-chief-exits-as-4-executives-leave-ahead-of-2027-ipo-4875869",
+      "excerpt": "exited, the fourth senior executive to leave ahead of its planned 2027 IPO.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Google",
+      "url": "https://www.brecorder.com/news/40436482/google-expands-gemini-ai-platform-for-law-firms-lawyers",
+      "excerpt": "launched Gemini Enterprise for Legal, giving law firms like Weil Gotshal AI agents for contract review and research.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Claude's memory",
+      "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+      "excerpt": "now works the same across chat and Claude Cowork (Anthropic's tool for handing off multi-step work tasks), carrying your context everywhere you work with Claude.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "A flaw in NVIDIA's tool",
+      "url": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
+      "excerpt": "for deploying AI agents let attackers hijack them with a single malicious webpage visit.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "ElevenLabs",
+      "url": "https://link.technologyadvice.com/r/eleven-labs-tn-newsletter-july-2026",
+      "excerpt": "turns text into lifelike speech for voiceovers, apps, and agents; free plan, then $6/mo.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "BrowserOS neo",
+      "url": "https://www.browseros.com/neo",
+      "excerpt": "gives you a free browser just for your AI agents (Claude Code, Cowork, Codex, Cursor), signed into your real logins so they can actually click through the web instead of just talking about it —free to try.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Coldtea",
+      "url": "https://www.coldtea.ai/",
+      "excerpt": "runs AI agents that test every pull request (a proposed code change) on a real device, watch your app in production, and file the bugs they catch before your users ever see them —free to try.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "MulmoTerminal",
+      "url": "https://github.com/receptron/mulmoterminal",
+      "excerpt": "puts a whole team of coding agents like Claude Code and Codex into one browser grid, so you can watch, run, and steer all of them at once instead of babysitting a single terminal —free to try.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Soloop",
+      "url": "https://www.soloop.io/",
+      "excerpt": "hands you an AI founding team (a CEO, CTO, CMO, and analyst) that plans, builds, and markets your product, so you can run a company solo (no pricing details).",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Nitro",
+      "url": "https://nitrotranslate.com/translation-api-noauth",
+      "excerpt": "puts professional human translation behind a single API call your AI agent can trigger on its own, no account or API key needed, across 80+ languages (pay per request, no fixed monthly price).",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Telerik's AI Engineering tools",
+      "url": "https://www.telerik.com/ai-engineering",
+      "excerpt": "trace every AI agent's decision, cache repeated calls so you're not billed twice for the same response, and catch cost spikes before they blow your budget (no pricing details).",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "AI Skill of the Day: Make Gemini Show Its Work in Sheets",
+      "url": "https://support.google.com/docs/answer/14356410?hl=en",
+      "excerpt": "AI Skill of the Day: Make Gemini Show Its Work in Sheets\r\n\r\nDon’t ask Gemini to “analyze this spreadsheet” and blindly take the answer. [Google Sheets](https://support.google.com/docs/answer/14356410?hl=en) gives you enough controls to make the analysis reviewable: scope Gemini to selected data, inspect **Analysis steps**, preview charts, and review an action before applying spreadsheet changes.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "$30 trillion",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-readies-30-trillion-dollar-revenue-forecast-investors/",
+      "excerpt": "Az Anthropic állítólag 30 billió dolláros bevételi előrejelzést készít a befektetőknek, ami a mesterséges intelligencia piacának rendkívüli növekedési várakozásait jelzi.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Dell AI Factory with NVIDIA,",
+      "url": "https://www.techrepublic.com/hubs/the-enterprise-guide-to-scalable-ai/",
+      "excerpt": "A Dell és az NVIDIA együttműködése az AI Factory megoldásban skálázható vállalati mesterséges intelligencia infrastruktúrát kínál, amelyet az útmutató részletesen bemutat.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Hear three leaders",
+      "url": "https://fin.ondemand.goldcast.io/on-demand/f86db321-3658-4a24-957b-463b2b776bd8?utm_source=beehiiv&utm_medium=syndication&utm_campaign=ai-fintech&utm_term=YJ4ZPRQDHV&utm_content=secondary&_bhiiv=opp_ecaaf201-6dac-4908-8f54-08929e9f31b3_62f59ae0&bhcl_id=06380303-4b17-4012-98aa-d4eb4ab94c31_f8ceac90-051d-4854-ae23-fc2f3d3ffc12_d466df2a-67f0-48c7-af44-fa1d7820565f",
+      "excerpt": "Három vezető beszélgetése az AI és a fintech találkozásáról, amely betekintést nyújt a pénzügyi technológia jövőjébe.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "The State of AI in 2026: On the Road to ROI",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+      "excerpt": "A McKinsey jelentése az AI 2026-os állapotáról a befektetés megtérülésére (ROI) fókuszál, bemutatva, hol tartanak a vállalatok az AI-alkalmazásban.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "90 Percent of Execs Say AI Didn't Help Productivity, So Layoffs Will Continue",
+      "url": "https://futurism.com/artificial-intelligence/90-percent-execs-ai-didnt-help-productivity-layoffs",
+      "excerpt": "A vezetők 90 százaléka szerint az AI nem növelte a termelékenységet, ezért további elbocsátások várhatók – a cikk a vállalati AI-kiábrándulásról szól.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "With Limited AI Policies, Teachers Take Different Approaches in the Classroom",
+      "url": "https://www.wral.com/news/education/limited-artificial-intelligence-policies-teachers-taking-their-own-approaches-august-2026/",
+      "excerpt": "A tanárok az AI-politikák hiányában saját megközelítéseket alkalmaznak az osztályteremben, ami vegyes gyakorlatokhoz vezet az oktatásban.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "AI Detectors Like Pangram Are Everywhere but Aren't Always Accurate",
+      "url": "https://www.washingtonpost.com/technology/interactive/2026/08/25/ai-detectors-like-pangram-are-everywhere-arent-always-accurate/",
+      "excerpt": "Az AI-detektorok, mint a Pangram, egyre elterjedtebbek, de pontosságuk megkérdőjelezhető – a cikk a korlátaikra világít rá.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "The Dawn of Neuro-Accounting",
+      "url": "https://www.ucf.edu/news/the-dawn-of-neuro-accounting-2/",
+      "excerpt": "A \"neuro-számvitel\" új területe az agykutatás és a pénzügyi számvitel ötvözésével forradalmasíthatja a pénzügyi döntéshozatalt.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 12:32:41 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "Read Online",
+      "url": "https://therundownai.beehiiv.com/p/openai-first-ai-chip-brings-the-heat?_bhlidaa234680798ad3bdb45514b5705f029891f88c&jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJzY3JpYmVyX2lkIjoiZjhjZWFjOTAtMDUxZC00ODU0LWFlMjMtZmMyZjNkM2ZmYzEyIiwicHVibGljYXRpb25faWQiOiI0ZDAzMzkwZC0yNDgxLTQyOTktYjk0OS1mZmQ4YjM4YjRjMzgiLCJhY2Nlc3NfdHlwZSI6InJlYWQtb25seSIsImV4cCI6MTc4NzkxMTYyOSwiaXNzIjoiaHR0cHM6Ly9hcHAuYmVlaGlpdi5jb20iLCJpYXQiOjE3ODc3Mzg4Mjl9.tkT_ko9CljtJd3GhRA5_FGXfu4nWNycfEpfoszL9gS0",
+      "excerpt": "A hírlevél cikke arról szól, hogy az OpenAI első saját AI-chipje, a \"Jalapeño\" jelentős teljesítményt hozhat a mesterséges intelligencia területén.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 10:07:27 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "_OpenAI's Jalape�o chip brings the heat_",
+      "url": "https://openai.com/index/jalapeno-first-results/",
+      "excerpt": "Az OpenAI Jalapeño chipjének első eredményei forró teljesítményt ígérnek, ami új szintre emelheti az AI-modellek futtatását.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 10:07:27 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "_Physical AI: from learning to embodied intelligence_",
+      "url": "https://wandb.ai/site/resources/whitepapers/advancing-physical-ai/?utm_source=rundown&utm_medium=cpc&utm_campaign=physical-ai&utm_content=6-26-26",
+      "excerpt": "A \"fizikai AI\" fehér könyv az intelligencia megtanulásától az embodied intelligence-ig terjedő átmenetet vizsgálja, a robotika és a valós világ interakciójára fókuszálva.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 10:07:27 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "_New startup takes AI from words to physics_",
+      "url": "https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25/",
+      "excerpt": "Egy új startup, amely a Bezos által támogatott Prometheus modellből indult, az AI-t a szavaktól a fizika felé viszi, új univerzum-modellezési lehetőségeket kínálva.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 10:07:27 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "_Build a website hands-free with Claude Voice_",
+      "url": "https://app.therundown.ai/guides/build-a-website-hands-free-with-claude-voice",
+      "excerpt": "A Claude Voice segítségével kéz nélkül építhetsz weboldalt – az útmutató lépésről lépésre mutatja be a hangvezérelt fejlesztési folyamatot.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 10:07:27 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "A reader is using AI to manage a $13.5M church renovation",
+      "url": "https://app.therundown.ai/community/posts/cd4df2ad-d27c-451c-a62c-d3feb2787248",
+      "excerpt": "Egy olvasó mesterséges intelligenciát használ egy 13,5 millió dolláros templomfelújítás irányítására, bemutatva az AI gyakorlati alkalmazását építési projektekben.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 10:07:27 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "Trending AI Tools",
+      "url": "https://www.rundown.ai/tools",
+      "excerpt": "A legfrissebb, trendi AI-eszközök listája, amely segít a felhasználóknak felfedezni a legújabb innovációkat és megoldásokat.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 10:07:27 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "Portable Computer",
+      "url": "https://www.therundown.ai/tools/portable-computer",
+      "excerpt": "A Portable Computer eszköz bemutatása, amely hordozható számítástechnikai megoldást kínál, és a cikk részletezi annak funkcióit és felhasználási lehetőségeit.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 10:07:27 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "Stickers in ChatGPT",
+      "url": "https://x.com/ChatGPT/status/2091996384954069032",
+      "excerpt": "A ChatGPT új matricafunkciójának bejelentése, amely interaktívabbá teszi a chatbot élményét, és a poszt a közösségi médiában mutatja be az újdonságot.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 10:07:27 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "Everything else in AI today",
+      "url": "https://www.rundown.ai/",
+      "excerpt": "Összefoglaló a mai AI-hírek legfontosabb eseményeiről, beleértve a fejlesztéseket, piaci trendeket és technológiai áttöréseket.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 10:07:27 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "introduced",
+      "url": "https://tech.therundown.ai/p/apple-mac-mini-makes-ai-comeback",
+      "excerpt": "Az Apple új Mac Mini modellje az AI-képességek visszatérését jelzi, és a cikk elemzi, hogyan erősíti meg a vállalat pozícióját a gépi tanulás terén.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 10:07:27 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "Highlights: News, Guides & Events",
+      "url": "https://app.therundown.ai/",
+      "excerpt": "Kiemelt AI-hírek, útmutatók és események gyűjteménye, amely segít az olvasóknak naprakészen maradni a szektor legfrissebb fejleményeivel.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 10:07:27 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "Humanoids beat Bolt\u0019s 100M record",
+      "url": "https://robotnews.therundown.ai/p/humanoids-beat-usain-bolt-100m-record",
+      "excerpt": "Humanoid robotok megdöntötték Usain Bolt 100 méteres rekordját, ami jelentős mérföldkő a robotika és a mesterséges intelligencia fejlődésében.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 10:07:27 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "Build your first AI Eval",
+      "url": "https://app.therundown.ai/live/how-to-build-your-first-ai-eval",
+      "excerpt": "Gyakorlati útmutató az első AI-értékelési (eval) rendszer felépítéséhez, amely lépésről lépésre mutatja be a folyamatot kezdőknek.",
+      "date": "2026-08-26",
+      "received": "Wed, 26 Aug 2026 10:07:27 +0000 (UTC)"
+    },
     {
       "source": "The Neuron",
       "title": "Anthropic's",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "excerpt": "flagship model Fable 5 pulled in just 11% of corporate AI spending two months after launch, as businesses defaulted to cheaper tools like OpenAI's GPT-5.6, per data from 70,000 companies.",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -16,7 +304,7 @@
       "url": "https://www.yahoo.com/news/us/articles/ice-banned-meta-glasses-now-154840012.html",
       "excerpt": "banned staff from wearing Meta's Ray-Ban smart glasses on the job, after agents were repeatedly spotted wearing them during immigration raids.",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -24,7 +312,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-hackers-use-deepseek-to-boost-attacks-researchers-say-mt7o4205?utm_source=www.theneurondaily.com&utm_medium=newsletter&utm_campaign=nvidia-built-a-cpu-musk-shot-it-into-space",
       "excerpt": "more than doubled their attack volume after folding DeepSeek into malware development and reconnaissance, researchers said.",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -32,7 +320,7 @@
       "url": "https://mistral.ai/news/mistral-x-humain/",
       "excerpt": "struck a hundreds-of-millions-euro deal with Saudi Arabia's HUMAIN to build sovereign AI models for the Middle East.",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -40,7 +328,7 @@
       "url": "https://openai.com/index/gpt-5-6-in-kiro/",
       "excerpt": "brought its GPT-5.6 models to AWS's Kiro coding tool, cutting task costs by roughly 82% in testing.",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -48,7 +336,7 @@
       "url": "https://www.atlaso.ai/",
       "excerpt": "gives Claude Code, Cursor, and Codex one shared memory, so what you tell one tool, the others already know—free to try, then $10/month for Pro.",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -56,7 +344,7 @@
       "url": "https://viktor.com/",
       "excerpt": "lives in Slack and Teams and finishes tasks itself, like auditing your ad spend and handing you the finished PDF instead of just a plan—free trial ($100 in credits), then $50/month.",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -64,7 +352,7 @@
       "url": "https://agentsky.dev/",
       "excerpt": "gives you one API key to run Claude Code, Codex, and other coding agents in the cloud, billed only for what you use—free to try ($3 credit), then pay-per-use.",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -72,7 +360,7 @@
       "url": "https://bolchoai.in/",
       "excerpt": "builds voice and chat agents that speak real Hindi, Tamil, and other Indian languages for your phone lines and website—free to try, then billed near provider cost per call.",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -80,7 +368,7 @@
       "url": "https://www.tryport22.com/",
       "excerpt": "puts your Claude Code or Codex session on your phone, so you can read along and approve from the couch instead of your desk—free for one Mac, then $19.99/year for unlimited.",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -88,7 +376,7 @@
       "url": "https://nudgeforme.com/",
       "excerpt": "scans your sent emails for proposals and pitches that never got a reply, then drafts the follow-up for you to send—free to try, then $39/month for Pro.",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -96,7 +384,7 @@
       "url": "https://x.com/trq212/status/2090884854590382515",
       "excerpt": "AI Skill of the Day: Make Claude Explain It With Big Pictures\r\n\r\n[Thariq](https://x.com/trq212/status/2090884854590382515) says people at Anthropic have been using an `/eli5` skill to understand a concept before diving into the details. It asks Claude to explain a topic as if you know nothing about it, using an HTML artifact with big pictures and very few words.\r\n\r\n**Try it on:**\r\n\r\n```\r\n/eli5 how",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -104,7 +392,7 @@
       "url": "https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html",
       "excerpt": "A CNBC elemzése szerint a processzorpiac 200 milliárd dollárosra nőhet, miközben az Nvidia új Vera CPU-ja az AMD és az Intel dominanciáját támadja az AI-szerverek piacán.",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -112,7 +400,7 @@
       "url": "https://airia.com/resources/shadow-ai-risk-assessment-whats-running-in-your-organization-without-approval/?utm_source=the_neuron&utm_medium=newsletter&utm_campaign=08252026primary",
       "excerpt": "Az Airia ingyenes felmérése segít feltárni, milyen nem jóváhagyott, „árnyék-AI” eszközök futnak a szervezetedben, hogy csökkentsd a kockázatokat.",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -120,7 +408,7 @@
       "url": "https://fin.registration.goldcast.io/webinar/2273391b-f56b-45f3-ae50-9ef69c485a8b?utm_source=beehiiv&utm_medium=syndication&utm_campaign=ai-fintech&utm_term=YJ4ZPRQDHV&utm_content=secondary&_bhiiv=opp_5bb38581-fd00-4cb7-8e1e-0fe377b45206_56b21364&bhcl_id=7cb5158b-6cd4-4544-8159-daf309c6eb18_f8ceac90-051d-4854-ae23-fc2f3d3ffc12_d466df2a-67f0-48c7-af44-fa1d7820565f",
       "excerpt": "A Fin és a Plaid új, igény szerinti webináriumán az AI-alapú pénzügyi technológiák integrációjáról és gyakorlati alkalmazásáról lesz szó.",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -128,7 +416,7 @@
       "url": "https://cloudonair.withgoogle.com/events/startup-school-agent-builder-q3-2026?utm_source=gfs&utm_medium=email&utm_campaign=FY26-Q3-GLOBAL-GCP41776-onlineevent-er-Q3StartupSchool-229984&utm_content=neuron_aug",
       "excerpt": "A Google Cloud startup iskolája ingyenes, gyakorlati workshopot kínál AI-ügynökök építéséhez, célzottan a fejlesztők és startupok számára.",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -136,7 +424,7 @@
       "url": "https://www.reddit.com/r/ClaudeCode/comments/1vrqxqc/game_over_22gb_local_models_run_in_pi_now/",
       "excerpt": "Egy fejlesztő beszámolója szerint a Qwen helyi futtatása 22 GB-os modellekkel mostantól Pi-n is működik, ami új lehetőségeket nyit a lokális AI használatban.",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -144,7 +432,7 @@
       "url": "https://huggingface.co/peculiar-ragdoll/Dirk-Qwen3.8-27B-GGUF",
       "excerpt": "A Dirk-Qwen3.8-27B modellkártyája részletezi a 27 milliárd paraméteres, GGUF formátumú modell teljesítményét és erőforrás-igényét, ami helyi futtatásra optimalizált.",
       "date": "2026-08-25",
-      "received": "Tue, 25 Aug 2026 10:42:03 +0000 (UTC)"
+      "received": "2026-08-25"
     },
     {
       "source": "The Neuron",
@@ -297,6 +585,22 @@
       "excerpt": "Ez a link egy hírlevélre való feliratkozást kínál, amely valószínűleg robotikai és AI-ipari híreket közöl.",
       "date": "2026-08-24",
       "received": "2026-08-24"
+    },
+    {
+      "source": "The Neuron",
+      "title": "NVIDIA’s AVO agent system",
+      "url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
+      "excerpt": "Az NVIDIA új AVO ágensrendszere elérte a 100-as pontszámot az ARC-AGI-3 teszten, ami a hosszú távú autonóm ágensek terén elért frontvonali általános célú architektúrát demonstrálja.",
+      "date": "2026-08-23",
+      "received": "Sun, 23 Aug 2026 19:16:29 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "NVIDIA put a $105B safety net under OpenAI",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
+      "excerpt": "Az NVIDIA 105 milliárd dolláros garanciát vállalt az OpenAI mögött, biztosítva az Ohio állambeli adatközpont-infrastruktúrát, amely kizárólag az NVIDIA AI-számítástechnikáját fogja hasznosítani.",
+      "date": "2026-08-23",
+      "received": "Sun, 23 Aug 2026 19:16:29 +0000 (UTC)"
     },
     {
       "source": "The Neuron",
