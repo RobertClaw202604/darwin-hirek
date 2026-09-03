@@ -1,14 +1,334 @@
 {
-  "generatedAt": "2026-09-02T06:30:22.717Z",
-  "count": 330,
+  "generatedAt": "2026-09-03T06:30:26.664Z",
+  "count": 371,
   "items": [
+    {
+      "source": "The Neuron",
+      "title": "BeyondTrust’s",
+      "url": "https://www.beyondtrust.com/resources/whitepapers/pam-buyers-guide?utm_source=theneuron&utm_medium=pd-newslettersp&utm_campaign=2026pambuyersguide&utm_content=newslettersp",
+      "excerpt": "PAM Buyer’s Guide covers eight must-have capabilities for human, machine, and AI identities, plus a vendor comparison checklist. [Download Now!](https://www.beyondtrust.com/resources/whitepapers/pam-buyers-guide?utm_source=theneuron&utm_medium=pd-newslettersp&utm_campaign=2026pambuyersguide&utm_content=newslettersp)",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "DeepLearning.AI’s software fundamentals map",
+      "url": "https://www.deeplearning.ai/the-batch/the-ai-engineering-skills-map-in-detail-software-engineering-fundamentals",
+      "excerpt": "gives you the five engineering areas worth learning so coding agents ship production software instead of brittle demos.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Gemini Agentic Video",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+      "excerpt": "searches long videos by deciding which moments, speeds, frames, audio, or transcript it needs to inspect for your question.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Google Pics",
+      "url": "https://workspace.google.com/products/pics/",
+      "excerpt": "turns prompts into posters and social graphics, then isolates objects and edits or translates text already inside the image.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Muse Voice Transcribe",
+      "url": "https://research.meta.ai/blog/introducing-muse-voice-transcribe?utm_source=chatgpt.com",
+      "excerpt": "turns live conversations into real-time transcripts while labeling 20+ speakers and handling 25+ languages, even when people switch languages mid-sentence.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Fambot",
+      "url": "https://fambot.ai/?utm_source=chatgpt.com",
+      "excerpt": "reads your family’s school emails, calendars, and group chats, then texts you one daily list of what everyone needs to know, do, or decide.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Reducto r-1",
+      "url": "https://reducto.ai/blog/parse-r-1-model",
+      "excerpt": "parses messy tables, watermarks, strikethroughs, and dense documents in one pass instead of chaining multiple document-reading agents.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "COLD WATCH",
+      "url": "https://cold-watch-game.netlify.app/?utm_source=chatgpt.com",
+      "excerpt": "is Ethan Mollick’s playable retro space-survival game built with Fable 5.1, and a fun way to see what a long-running coding agent can actually make.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "VIDEO AI ME LIVE",
+      "url": "https://videoai.me/live?utm_source=chatgpt.com",
+      "excerpt": "is a bizarre 24/7 AI shopping channel that generates commercials on demand, including one for your own website if you drop it into the chat.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Cat Doom",
+      "url": "https://cat-doom.com/",
+      "excerpt": "turns our recurring AI coding benchmark into a playable Doom-style FPS starring cats, so you can experience the ridiculous game we keep making frontier models build. _Fable 5.1 literally built this live on stream! _",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "AI Skill of the Day: Make Fable 5.1 cheaper, faster, and less annoying",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-1",
+      "excerpt": "AI Skill of the Day: Make Fable 5.1 cheaper, faster, and less annoying\r\n\r\nAnthropic published a surprisingly useful [Fable 5.1 prompting guide](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-1). The biggest lesson: old Claude prompts mostly still work, but long-running agents need a few new habits.\r\n\r\n1. Re-test effort from scratch. Start at the d",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "phone-shot demo",
+      "url": "https://x.com/davidpantera_/status/2094841083805266401",
+      "excerpt": "Egy friss telefonos videódemonstráció mutatja be a legújabb AI-funkciót működés közben, valós környezetben.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "whole lot more that you can read about here",
+      "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-september-1-2026/",
+      "excerpt": "A hírlevél összefoglalja az elmúlt nap összes jelentős AI-eseményét, beleértve a fejlesztéseket, bejelentéseket és piaci híreket.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Click here to set a reminder by hitting “notify me” on YouTube",
+      "url": "https://www.youtube.com/watch?v=SfUvqHz9m-8",
+      "excerpt": "A YouTube-link egy eseményre hívja fel a figyelmet, amelyhez emlékeztetőt állíthatsz be a „notify me” gombbal.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Read our full Fable 5.1 initial impressions recap.",
+      "url": "https://www.theneuron.ai/news/claude-fable-5-1-cuts-agent-costs-and-safety-friction/",
+      "excerpt": "A Fable 5.1-es verziójának első benyomásai szerint a modell jelentősen csökkenti az ügynökök költségeit és a biztonsági súrlódásokat.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Claude Fable 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "excerpt": "Az Anthropic bemutatja a Claude Fable 5.1-et, amely a legújabb modelljük, és várhatóan új mércét állít fel az AI-teljesítményben.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "_our takes testing it live, watch this_",
+      "url": "https://www.youtube.com/live/9F_uP0_bTYo?si=i2eZmH75nz81VTZl&t=457",
+      "excerpt": "Élő tesztelésünk során megmutatjuk, hogyan teljesít a gyakorlatban az új rendszer – nézd meg a videót.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Realtime TTS-2",
+      "url": "https://inworld.ai/realtime-tts-2?utm_source=neurondaily&utm_medium=paidemail&utm_campaign=neurondaily-tts-2",
+      "excerpt": "Az Inworld AI új Realtime TTS-2 megoldása valós idejű, természetes hangszintézist kínál, amely forradalmasíthatja a beszélgetéses AI-t.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "$0.25 per million tokens",
+      "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+      "excerpt": "A Claude platform árazása mostantól 0,25 dollár/millió token, ami jelentős költségcsökkentést jelent a fejlesztőknek.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "→ Get the report",
+      "url": "https://www.atlassian.com/gartner/magic-quadrant-itsm-platforms?utm_source=newsletter-email&utm_medium=email&utm_campaign=P:jira-service-management*O:gdc*C:dl*H:fy27q1*I:jsm-dzone-neuron-sep-2*Y:itsm*E:cloud*&utm_sfdc-campaign_id=701QB00000nTI0cYAG",
+      "excerpt": "A Gartner-jelentés letölthető, és az ITSM-platformok értékelését tartalmazza, amely segíthet a vállalati döntéshozatalban.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Ilya Sutskever warned",
+      "url": "https://x.com/ilyasut/status/2094881278621253755",
+      "excerpt": "Ilya Sutskever figyelmeztetést fogalmazott meg egy potenciális kockázatról vagy trendről az AI fejlődésében.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Sam Altman said",
+      "url": "https://x.com/sama/status/2094934592062959832",
+      "excerpt": "Sam Altman nyilatkozott valamiről, ami fontos irányt mutathat az OpenAI jövőbeli tervei vagy az iparág számára.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "OpenAI’s Astra",
+      "url": "https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns?utm_source=chatgpt.com",
+      "excerpt": "Az OpenAI Astra modelljének titkos technikája biztonsági aggályokat vet fel, amelyeket a The Information részletez.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "researcher Elie Bakouch sees",
+      "url": "https://x.com/eliebakouch/status/2094973682858733650",
+      "excerpt": "Elie Bakouch kutató észrevétele egy új fejleményre vagy felfedezésre utal az AI-kutatásban.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "GE Appliances used AI",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
+      "excerpt": "A GE Appliances mesterséges intelligenciát használ a gyártásban, ami munkahelyi és adatkezelési kérdéseket vet fel – az NPR riportja szerint.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "UCSB researchers built",
+      "url": "https://ucsb-ai.github.io/quantum-infinite-game/",
+      "excerpt": "A UCSB kutatói egy kvantum-végtelen játékot építettek, amely új megközelítést kínál a kvantumszámítás és a játéktervezés határán.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Glean told CIOs",
+      "url": "https://www.theinformation.com/newsletters/applied-ai/anthropic-customers-bills-80-higher-need-glean-says?rc=lks9on",
+      "excerpt": "A Glean vezetője szerint az Anthropic ügyfelei 80 százalékkal magasabb számlákat kapnak, ami új kihívások elé állítja a CIO-kat a mesterséges intelligencia költségeinek kezelésében.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Ethan Mollick",
+      "url": "https://x.com/emollick/status/2094888723242536971",
+      "excerpt": "Ethan Mollick bejegyzése a mesterséges intelligencia gyakorlati alkalmazásairól és hatásairól oszt meg friss meglátásokat.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Derek Thompson and Pangram’s Max Spero",
+      "url": "https://www.derekthompson.org/p/the-internet-is-drowning-in-ai-slop",
+      "excerpt": "Derek Thompson és a Pangram alapítója, Max Spero arról ír, hogy az internetet elárasztja az AI-generált tartalom, és ennek következményeiről.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Eric Vishria",
+      "url": "https://x.com/ericvishria/status/2094664231132274926",
+      "excerpt": "Eric Vishria posztja az AI-ipar aktuális trendjeire és befektetési szempontjaira világít rá.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Allie K. Miller",
+      "url": "https://x.com/alliekmiller/status/2094855935717970378",
+      "excerpt": "Allie K. Miller bejegyzése az AI-ökoszisztéma fejleményeit és gyakorlati tanácsokat foglal össze.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "_“Floppy Bird”_",
+      "url": "https://generativecreations.github.io/floppy-bird/",
+      "excerpt": "A \"Floppy Bird\" egy kreatív, valószínűleg floppy lemezes madár témájú generatív AI-projekt, amely szórakoztató vagy technikai demonstrációként szolgál.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Yesterday we asked y’all",
+      "url": "https://www.theneurondaily.com/p/runway-solaris-treats-software-like-video",
+      "excerpt": "A Neurondaily tegnapi kérdése a Runway Solaris kapcsán azt firtatja, hogyan kezeli a szoftvert videóként, ami új megközelítést jelenthet az AI-alkalmazásokban.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:31:39 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "Read Online",
+      "url": "https://therundownai.beehiiv.com/p/fable-5-1-kicks-off-launch-week-at-the-frontier?_bhlidaa234680798ad3bdb45514b5705f029891f88c&jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJzY3JpYmVyX2lkIjoiZjhjZWFjOTAtMDUxZC00ODU0LWFlMjMtZmMyZjNkM2ZmYzEyIiwicHVibGljYXRpb25faWQiOiI0ZDAzMzkwZC0yNDgxLTQyOTktYjk0OS1mZmQ4YjM4YjRjMzgiLCJhY2Nlc3NfdHlwZSI6InJlYWQtb25seSIsImV4cCI6MTc4ODUxNjUxMCwiaXNzIjoiaHR0cHM6Ly9hcHAuYmVlaGlpdi5jb20iLCJpYXQiOjE3ODgzNDM3MTB9.SS1h5VX082JplFtz8p_t9CzFNRkey7cqLnIjPX5az24",
+      "excerpt": "A Rundown AI hírlevele a Fable 5.1 megjelenéséről számol be, ami a \"frontier\" modellek versenyében fontos mérföldkő lehet.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:08:47 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "_Bernie Sanders escalates AI pause conversation_",
+      "url": "https://www.foxnews.com/opinion/sen-bernie-sanders-yes-we-must-hit-pause-button-ai-before-it-is-too-late",
+      "excerpt": "Bernie Sanders szenátor az AI fejlesztésének szüneteltetését sürgeti, mielőtt túl késő lenne, és erre építve fogalmaz meg véleménycikket.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:08:47 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "_How to pick a dedicated AI device_",
+      "url": "https://app.therundown.ai/guides/how-to-pick-a-dedicated-ai-device",
+      "excerpt": "Ez az útmutató segít eligazodni abban, hogyan válasszunk dedikált AI-eszközt, figyelembe véve a felhasználási igényeket és technikai szempontokat.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:08:47 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "_**Apple, OpenAI trade blame in legal battle**_",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.94.1.pdf",
+      "excerpt": "Az Apple és az OpenAI egymást hibáztatja egy jogi csatában, amelynek dokumentumai nyilvánosságra kerültek, és az AI-partnerségük vitás pontjait tárják fel.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:08:47 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "**A Rundown reader built a shared blood pressure tracker with Claude Code**",
+      "url": "https://app.therundown.ai/community/posts/403320e5-b0fd-41fa-9ab5-bc94d2ca05aa",
+      "excerpt": "Egy Rundown-olvasó saját, közös vérnyomáskövető rendszert épített a Claude Code segítségével, ami példa az AI-alapú fejlesztés gyakorlati alkalmazására.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:08:47 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "rolled out",
+      "url": "https://tech.therundown.ai/p/dyson-puts-ai-in-a-499-toothbrush",
+      "excerpt": "A Dyson AI-t épített egy 499 dolláros fogkefébe, ami a technológia új, hétköznapi eszközökbe való integrálását jelzi.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:08:47 +0000 (UTC)"
+    },
+    {
+      "source": "The Rundown",
+      "title": "Runway previews the no-code internet",
+      "url": "https://www.therundown.ai/articles/runway-solaris-previews-the-no-code-internet",
+      "excerpt": "A Runway Solaris bemutatja a \"no-code internet\" koncepcióját, amely lehetővé teszi, hogy szoftvereket videószerűen, kód nélkül hozzanak létre.",
+      "date": "2026-09-02",
+      "received": "Wed, 02 Sep 2026 10:08:47 +0000 (UTC)"
+    },
     {
       "source": "The Rundown",
       "title": "Read Online",
       "url": "https://therundownai.beehiiv.com/p/runway-solaris-previews-the-no-code-internet?_bhlidaa234680798ad3bdb45514b5705f029891f88c&jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJzY3JpYmVyX2lkIjoiZjhjZWFjOTAtMDUxZC00ODU0LWFlMjMtZmMyZjNkM2ZmYzEyIiwicHVibGljYXRpb25faWQiOiI0ZDAzMzkwZC0yNDgxLTQyOTktYjk0OS1mZmQ4YjM4YjRjMzgiLCJhY2Nlc3NfdHlwZSI6InJlYWQtb25seSIsImV4cCI6MTc4ODQzMDA5NSwiaXNzIjoiaHR0cHM6Ly9hcHAuYmVlaGlpdi5jb20iLCJpYXQiOjE3ODgyNTcyOTV9.xjX22KidWg899IcRLf5mjFPb54cvC0VYywh32XbimU0",
       "excerpt": "A Runway Solaris bemutatja a no-code internet koncepcióját, amely lehetővé teszi, hogy kódolási tudás nélkül hozzunk létre és futtassunk webes alkalmazásokat.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 10:08:32 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Rundown",
@@ -16,7 +336,7 @@
       "url": "http://www.optimizely.com/field-notes/events/ai-personalization-webinar-corinthia-hotels/?utm_source=rundownai&utm_medium=cpc&utm_campaign=global_pers_personalizationwebinar-rundownai-newsletter-2_q326_pt_traffic&utm_content=pers-ai-webinar",
       "excerpt": "A Corinthia Hotels esettanulmánya bemutatja, hogyan érték el a 100%-os márka-elfogadottsági arányt AI-alapú személyre szabással.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 10:08:32 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Rundown",
@@ -24,7 +344,7 @@
       "url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
       "excerpt": "Egy új, szuperemberi szintű AI-eszköz két másodperc alatt képes felismerni a szívbetegségeket, ami forradalmasíthatja a diagnosztikát.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 10:08:32 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Rundown",
@@ -32,7 +352,7 @@
       "url": "https://app.therundown.ai/guides/how-to-connect-chatgpt-to-imessage-and-what-it-can-do",
       "excerpt": "Útmutató arról, hogyan csatlakoztathatod a ChatGPT-t az iMessage-hez, és milyen funkciókat érhetsz el ezzel a kapcsolattal.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 10:08:32 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Rundown",
@@ -40,7 +360,7 @@
       "url": "https://www.sonarsource.com/products/gitar/?utm_source=fnf&utm_medium=paid&utm_campaign=ss-gitar26&utm_term=newsletter-rundownai&utm_content=v1https://fandf.co/4wUDf2N",
       "excerpt": "A determinisztikus szabályok és az AI-vezérelt javítások kombinációja új megoldást kínál a kódminőség-kezelésben.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 10:08:32 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Rundown",
@@ -48,7 +368,7 @@
       "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
       "excerpt": "Az Anthropic kísérletet indít az automatizált AI-biztonsági kutatás tesztelésére, hogy gépek segítsék az alignment-failures mérséklését.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 10:08:32 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Rundown",
@@ -56,7 +376,7 @@
       "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
       "excerpt": "A METR vizsgálati jelentése az OpenAI és a Hugging Face közötti incidensről, amely a mesterséges intelligencia fejlesztésének biztonsági kérdéseire világít rá.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 10:08:32 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Rundown",
@@ -64,7 +384,7 @@
       "url": "https://app.therundown.ai/community/posts/4909661d-9f30-4ac1-a1ac-a446537fa8a3",
       "excerpt": "Egy közösségi tag, Christian, egy olyan étkezéskövetőt épített, amelybe fotókat küldhet, és az AI elemzi az étkezéseket.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 10:08:32 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Rundown",
@@ -72,7 +392,7 @@
       "url": "https://x.com/NousResearch/status/2094515104670715940",
       "excerpt": "A Hermes Agent bemutatása a Nous Research-től, amely egy új, autonóm AI-ügynök lehet.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 10:08:32 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Rundown",
@@ -80,7 +400,7 @@
       "url": "https://www.war.gov/News/Releases/Release/Article/4586482/department-of-war-launches-starshield-ais-grok-for-government-on-genaimil/",
       "excerpt": "A Hadügyminisztérium elindítja a Starshield AI-t, a Grok kormányzati változatát a GenAIMil program keretében.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 10:08:32 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Rundown",
@@ -88,7 +408,7 @@
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1772",
       "excerpt": "Az Európai Bizottság hivatalosan kijelölt valamit (valószínűleg egy AI-szabályozási vagy felügyeleti szervet), ami új mérföldkő az AI-szabályozásban.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 10:08:32 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Rundown",
@@ -96,7 +416,7 @@
       "url": "https://www.therundown.ai/articles/openai-cuts-out-spacex-owned-cursor",
       "excerpt": "Az OpenAI megszakítja az együttműködést a SpaceX tulajdonában lévő Cursorral, ami stratégiai váltást jelez a piaci versenyben.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 10:08:32 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Rundown",
@@ -104,7 +424,7 @@
       "url": "https://robotnews.therundown.ai/p/hugging-face-robot-duck-is-already-a-hit",
       "excerpt": "A Hugging Face robotkacsája gyorsan népszerűvé válik, új irányt mutatva a robotikai és AI-kutatásban.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 10:08:32 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -112,7 +432,7 @@
       "url": "https://link.technologyadvice.com/r/descript-tn-newsletter-july-2026",
       "excerpt": "edits podcasts and videos like a doc, so deleting words from the transcript cuts the recording too; free plan, then $16/person/mo billed annually.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 09:32:35 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -120,7 +440,7 @@
       "url": "https://xp.koyal.ai/",
       "excerpt": "casts you and friends in a 15-minute interactive movie whose plot changes with your choices.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 09:32:35 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -128,7 +448,7 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
       "excerpt": "turns messy speech into clean, formatted text in 85+ languages and can use what’s on screen for context.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 09:32:35 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -136,7 +456,7 @@
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "excerpt": "gives AI agents fast, isolated workspaces that can pause on one machine and resume on another.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 09:32:35 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -144,7 +464,7 @@
       "url": "https://github.com/AlgorithmicResearchGroup/fnscribe",
       "excerpt": "turns the fn key into private, on-device Mac dictation that pastes straight into the active app.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 09:32:35 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -152,7 +472,7 @@
       "url": "https://platform.bria.ai/image-generation/fibo-generate/sandbox?utm_campaign=371253467-Product%20Releases_2026&utm_source=twitter&utm_medium=social&utm_content=Fibo%20Gen%201.5%20Photoreal%20Package",
       "excerpt": "cuts image generation from 50 steps to 6 without changing how developers connect to it.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 09:32:35 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -160,7 +480,7 @@
       "url": "https://help.openai.com/en/articles/12628359-asana-synced-connector",
       "excerpt": "AI Skill of the Day: Make AI report only what changed\r\n\r\nEver ask AI for a project update and get the entire history back? If your team uses Asana, ChatGPT can now read tasks, comments, owners, activity notes, and due dates through the [Asana app](https://help.openai.com/en/articles/12628359-asana-synced-connector).\r\n\r\nThat means you can ask for only what changed: new blockers, overdue work, owner",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 09:32:35 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -168,7 +488,7 @@
       "url": "https://infiniteslop.ai/",
       "excerpt": "Az \"Infinite Slop\" egy új weboldal, amely valószínűleg az AI-generált tartalom végtelen áradatát mutatja be vagy kritizálja.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 09:32:35 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -176,7 +496,7 @@
       "url": "https://x.com/levelsio/status/2094448497382555829",
       "excerpt": "A \"Slop News Network\" egy új kezdeményezés, amely AI-generált híreket vagy szatirikus tartalmakat kínál, a levelsio bejegyzése alapján.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 09:32:35 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -184,7 +504,7 @@
       "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-monday-august-31-2026/",
       "excerpt": "A The Neuron összefoglalója az AI világában történt összes fontos eseményről, hétfői, 2026. augusztus 31-i dátummal.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 09:32:35 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -192,7 +512,7 @@
       "url": "https://runway.com/news/research/introducing-solaris",
       "excerpt": "A Runway bemutatta a Solaris nevű új rendszerét, amely a kutatási irányuk legújabb fejlesztése.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 09:32:35 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -200,7 +520,7 @@
       "url": "https://x.com/runwayml/status/2094463070466646019",
       "excerpt": "A Runway korai hozzáférési lehetőséget kínál a Solarishoz, amelyet a közösségi médiában jelentettek be.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 09:32:35 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -208,7 +528,7 @@
       "url": "https://finest.so/?utm_source=neuron&utm_medium=newsletter&utm_campaign=fin-nl-sep26&utm_content=savings-first&utm_term=neuron-sep01-primary",
       "excerpt": "A Finest nevű eszköz bemutatása, amely lehetővé teszi a felhasználók számára, hogy építsenek vele.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 09:32:35 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -216,7 +536,7 @@
       "url": "https://slack.com/resources/why-use-slack/evaluate-value-of-slack?d=701ed0000143klQAAQ&nc=701ed0000143gOQAAY&utm_source=theneuronai&utm_medium=tp_email&utm_campaign=amer_us_slack-invoice_&utm_content=cross-segment_all-strategic-neuronai-secondary-sept1_701ed0000143klQAAQ_english_evaluate-value-of-slack",
       "excerpt": "A Slack hivatalos ROI-kalkulátora segít felmérni a platform értékét és megtérülését a vállalatok számára.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 09:32:35 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -224,7 +544,7 @@
       "url": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
       "excerpt": "Az Európai Bizottság a digitális szolgáltatásokról szóló jogszabály (DSA) alapján kijelölte a ChatGPT-t, a Redditet és a Robloxot.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 09:32:35 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -232,7 +552,7 @@
       "url": "https://www.dwarkesh.com/p/openai-huggingface",
       "excerpt": "Dwarkesh Patel interjúja vagy elemzése az OpenAI és a Hugging Face kapcsolatáról, illetve helyzetéről.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 09:32:35 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -240,7 +560,7 @@
       "url": "https://theneuron.ai/news/ais-11t-bet-the-bull-and-bear-case-for-the-compute-boom/",
       "excerpt": "A The Neuron részletes elemzése az AI 11 billió dolláros tétjéről, beleértve a számítási kapacitás-boom bikás és medvés forgatókönyveit.",
       "date": "2026-09-01",
-      "received": "Tue, 01 Sep 2026 09:32:35 +0000 (UTC)"
+      "received": "2026-09-01"
     },
     {
       "source": "The Neuron",
@@ -937,6 +1257,14 @@
       "excerpt": "A link egy élő eseményre mutat, amely bemutatja, hogyan építhetünk AI-alapú operációs rendszert a rendszeres 1:1 megbeszélések hatékonyabbá tételére.",
       "date": "2026-08-28",
       "received": "2026-08-28"
+    },
+    {
+      "source": "The Rundown",
+      "title": "_OpenAI calls its AGI shot_",
+      "url": "https://time.com/article/2026/08/26/openai-sam-altman-interview/?",
+      "excerpt": "Az OpenAI vezetője, Sam Altman interjúban fejti ki, hogy a cég szerinte mikor érheti el az AGI-t, és milyen ütemben haladnak e cél felé.",
+      "date": "2026-08-27",
+      "received": "Thu, 27 Aug 2026 10:06:22 +0000 (UTC)"
     },
     {
       "source": "The Neuron",
