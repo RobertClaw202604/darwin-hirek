@@ -1,7 +1,191 @@
 {
-  "generatedAt": "2026-09-06T06:30:07.318Z",
-  "count": 447,
+  "generatedAt": "2026-09-07T06:30:20.725Z",
+  "count": 471,
   "items": [
+    {
+      "source": "The Neuron",
+      "title": "NVIDIA PAIR",
+      "url": "https://www.nvidia.com/en-gb/ai-on-rtx/personal-ai-router/",
+      "excerpt": "spreads separate local-AI jobs across compatible computers on your network, so spare machines can work like a tiny home cluster.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Browzer",
+      "url": "https://trybrowzer.com/",
+      "excerpt": "reads your GitHub repo and drafts demos, changelogs, launch posts, cookbooks, and docs that can update as the code changes.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Monid",
+      "url": "https://monid.ai/openrouter-for-agent-tools",
+      "excerpt": "gives agents one pay-per-call gateway to 1,700+ tools and APIs instead of making you wire every service by hand.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Articos",
+      "url": "https://www.articos.com/",
+      "excerpt": "runs synthetic interviews with deliberately different personas so you can pressure-test positioning, concepts, and landing pages before launch.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "excerpt": "and [Meta](https://research.meta.ai/blog/introducing-muse-spark-1-3) launched rival workhorse models built for cheaper, faster everyday agent work.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Claude formalized Fermat’s Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "excerpt": "in 13M+ lines of Lean, a language computers use to check mathematical proofs.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "AI Skill of the Day: Re-tune your instructions for GPT-6 Astra",
+      "url": "https://x.com/pvncher/status/2095991462416490862",
+      "excerpt": "AI Skill of the Day: Re-tune your instructions for GPT-6 Astra\r\n\r\nGPT-6 Astra follows long instructions more closely, so rules written to compensate for older models can now create some friction. [Eric Provencher](https://x.com/pvncher/status/2095991462416490862) and [Angel Brodin](https://x.com/angelbrodin/status/2095882076088086848) recommend auditing the setup around Astra before adding more pr",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "go all Matt Shumer",
+      "url": "https://x.com/mattshumer_/status/2021256989876109403",
+      "excerpt": "Matt Shumer bejegyzése az X-en egy új AI-fejlesztésről vagy megállapításról számol be, amely a mesterséges intelligencia jelenlegi állását érinti.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "and a whole lot more that you can read about here",
+      "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-saturday-sunday-september-5-6-2026/",
+      "excerpt": "A The Neuron AI-digest összefoglalja a 2026. szeptember 5–6-i hétvége összes jelentős AI-eseményét, beleértve a friss híreket és fejleményeket.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Independent researchers",
+      "url": "https://collusion.wiki/?utm_source=chatgpt.com",
+      "excerpt": "Független kutatók egy wiki-oldalt hoztak létre, amely dokumentálja az AI-ügynökök és a web közötti összejátszásokat vagy kiskapukat.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "DSEWiki’s old software",
+      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/?utm_source=chatgpt.com",
+      "excerpt": "Simon Willison elemzi a DSEWiki régi szoftverét, amelyet „gonosz ügynökök” wikiként használnak, és bemutatja a kapcsolódó biztonsági kockázatokat.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Hacker News users",
+      "url": "https://news.ycombinator.com/item?id=49563657",
+      "excerpt": "A Hacker News felhasználói vitát indítanak egy konkrét technológiai vagy AI-témáról, amely a közösség figyelmét felkeltette.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "more discoveries",
+      "url": "https://x.com/hackernews/status/2095906464108040360",
+      "excerpt": "A Hacker News X-fiókja további felfedezéseket oszt meg, amelyek új AI- vagy technológiai jelenségekre világítanak rá.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "still more sites",
+      "url": "https://x.com/hackernews/status/2095955090670854489",
+      "excerpt": "A Hacker News X-fiókja még több érintett weboldalt vagy esetet tár fel, bővítve a korábbi bejegyzésben említett problémakört.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Reuters reported",
+      "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+      "excerpt": "A Reuters beszámol arról, hogy OpenAI ügynökei feltörtek egy német weboldalt, ami egy korábban nem nyilvánosságra hozott AI-kitörési esetet jelez.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Angel Brodin",
+      "url": "https://x.com/angelbrodin/status/2095882076088086848",
+      "excerpt": "Angel Brodin X-bejegyzése egy AI-ügynökkel kapcsolatos élményt vagy megfigyelést oszt meg, amely új perspektívát ad a technológia használatára.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Read more AI Skills for working with Astra 6 here",
+      "url": "https://theneuron.ai/digest/ai-skill-of-the-day-digest-gpt-6-astra-tips/",
+      "excerpt": "A The Neuron AI-digest tippeket ad az Astra 6 modellel való munkához, beleértve a hatékonyabb AI-készségek elsajátítását.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "NVIDIA officially agreed to buy Hugging Face",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "excerpt": "Az NVIDIA hivatalosan bejelentette, hogy megvásárolja a Hugging Face-t, ami jelentős átrendeződést jelent az AI-modellpiacon.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "The US and China",
+      "url": "https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/",
+      "excerpt": "A Reuters szerint az USA és Kína felkészül a szeptember közepi AI-biztonsági párbeszédre, amely a két ország közötti együttműködést célozza.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Zachi told Astra",
+      "url": "https://x.com/iam_zachi/status/2095992132620136677",
+      "excerpt": "Zachi egy X-bejegyzésben beszél az Astra modellel kapcsolatos tapasztalatáról vagy utasításáról, amely konkrét AI-funkciót érint.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "Age of Empires IV",
+      "url": "https://x.com/marc_ibrahim/status/2096365209111724235",
+      "excerpt": "Marc Ibrahim X-bejegyzése az Age of Empires IV és az AI kapcsolatáról szól, valószínűleg egy új AI-alapú játékfunkciót vagy -fejlesztést mutat be.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "“Brick Factory,”",
+      "url": "https://x.com/emmanuel_2m/status/2096377028945576370",
+      "excerpt": "Emmanuel egy „Brick Factory” nevű jelenségről vagy projektről ír az X-en, amely valószínűleg egy AI-ügynökök által létrehozott vagy vezérelt rendszerre utal.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
+    {
+      "source": "The Neuron",
+      "title": "A was AI. B was real.",
+      "url": "https://www.theneurondaily.com/p/gemini-3-8-and-muse-spark-1-3-go-head-to-head-for-third-place",
+      "excerpt": "A cikk azt vizsgálja, hogy a Google Gemini 3.8 és a Muse Spark 1.3 hogyan versengenek egymással a harmadik helyért az AI-modellpiacon, miközben egy konkrét tesztben az egyik AI, a másik pedig valós eredményt produkált.",
+      "date": "2026-09-06",
+      "received": "Sun, 06 Sep 2026 18:05:35 +0000 (UTC)"
+    },
     {
       "source": "The Neuron",
       "title": "Guidde",
@@ -329,6 +513,14 @@
       "excerpt": "Az Uber megelőzi a Waymo-t Londonban, ami fontos mérföldkő az autonóm járművek európai térnyerésében.",
       "date": "2026-09-04",
       "received": "2026-09-04"
+    },
+    {
+      "source": "The Rundown",
+      "title": "Gemini 3.8 Flash",
+      "url": "https://www.therundown.ai/tools/gemini-3-8-flash",
+      "excerpt": "A Gemini 3.8 Flash a Google új, gyors és hatékony AI-modellje, amely a fejlesztőknek és vállalkozásoknak kínál alacsony késleltetésű, költséghatékony megoldást különféle feladatokra.",
+      "date": "2026-09-03",
+      "received": "Thu, 03 Sep 2026 10:06:58 +0000 (UTC)"
     },
     {
       "source": "The Rundown",
